@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pythonver
 - 👀 I’m interested in C++ and python
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and java
 
 <!---
 pythonver/pythonver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
